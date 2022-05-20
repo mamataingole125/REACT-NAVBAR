@@ -1,0 +1,22 @@
+.middle{
+    display: flex;
+    
+}
+.middle>p{
+    margin-left: 50px;
+}
+
+.btn{
+padding: 5px;
+width: 100px;
+height: 30px;
+margin-top: 15px;
+border-radius: 30px;
+background-color:rgb(46, 181, 181) ;
+color: white;
+margin-right: 40px;
+}
+
+.logo{
+    margin-left: 40px;
+}
